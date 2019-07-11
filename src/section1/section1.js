@@ -17,7 +17,8 @@ class Section1 extends React.Component {
                         <Col lg={2}></Col>
                         <Col lg={8} className="text-center"><img className="rounded-circle border-white" src={logo} width={200} />
                             <h2 className="text-uppercase text-white">Jose Zapata</h2>
-                            <p className="text-uppercase text-white">Web Designer Developer  <a className="text-white" href="https://www.instagram.com/puntozap/"><i className="fab fa-instagram"></i>/puntozap</a></p>
+                            <p className="text-uppercase text-white">Web Designer Developer  </p>
+                            <p className="text-white text-uppercase"><a className="text-white" href="https://www.instagram.com/puntozap/"><i className="fab fa-instagram"></i> puntozap</a> | <i class="fab fa-whatsapp"></i> +58 426 7292629 | <i class="fas fa-envelope-square"></i> puntozap@gmail.com</p>
                             
                         </Col>
                         <Col lg={2}></Col>
