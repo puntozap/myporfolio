@@ -1,0 +1,135 @@
+.profile-side {
+    margin: -245px 0 20px;
+    position: relative;
+}
+.profile-side .box-typical {
+    margin: 0 0 15px;
+}
+.box-typical {
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    background: #fff;
+    border: solid 1px #d8e2e7;
+    margin: 0 0 20px;
+}
+.box-typical {
+    background: #fff;
+}
+
+.profile-side-user {
+    text-align: center;
+    padding: 28px 15px 15px;
+}
+.profile-side-user .avatar-preview {
+    display: block;
+    border: none;
+    background: 0 0;
+    position: relative;
+    margin: 0 auto 20px;
+    color: #fff;
+    text-align: center;
+    overflow: hidden;
+    cursor: pointer;
+}
+.avatar-preview {
+    display: inline-block;
+    vertical-align: middle;
+}
+.rotates-image{
+    transform: rotate(0deg);
+  -webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
+  transition: width 2s;
+}
+.rotates-image:hover{
+    -webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
+  transition: width 2s;
+    transform: rotate(20deg);
+}
+.profile-side-user .avatar-preview .update {
+    display: block;
+    opacity: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: rgba(0,0,0,.4);
+    font-size: .875rem;
+    padding: 35% 0 0;
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+.profile-side-user .btn-group {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.profile-side-user .btn, .profile-side-user .btn-group {
+    width: 100%;
+    max-width: 180px;
+    margin: 0 5px;
+}
+.btn.btn-primary-outline, .btn.btn-primary-outline:focus {
+    color: #00a8ff;
+    border-color: #00a8ff;
+}
+.btn.btn-danger-outline, .btn.btn-default-outline, .btn.btn-info-outline, .btn.btn-primary-outline, .btn.btn-secondary-outline, .btn.btn-success-outline, .btn.btn-warning-outline {
+    background-color: #fff;
+}
+.profile-header-photo .info-tbl .title {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.profile-side .box-typical {
+    margin: 0 0 15px;
+}
+.box-typical {
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    background: #fff;
+    border: solid 1px #d8e2e7;
+    margin: 0 0 20px;
+}
+.box-typical {
+    background: #fff;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+    display: block;
+}
+.box-typical .box-typical-header-sm.bordered {
+    border-bottom: solid 1px #d8e2e7;
+}
+.box-typical .box-typical-header-sm {
+    padding: 12px 15px;
+    font-weight: 600;
+    position: relative;
+}
+.profile-side .box-typical-inner {
+    padding: 12px 15px;
+}
+.profile-side .progress-compact-style {
+    margin: 0 0 15px;
+}
+.progress-compact-style .progress-header {
+    zoom: 1;
+    padding: 0 0 5px;
+}
+.progress-compact-style .progress-header:after, .progress-compact-style .progress-header:before {
+    content: " ";
+    display: table;
+}
+.progress-compact-style .progress-lbl {
+    float: left;
+}
+.progress-compact-style .progress-val {
+    float: right;
+    color: #919fa9;
+}
+.progress-compact-style .progress-header:after {
+    clear: both;
+}
+.progress-compact-style .progress-header:after, .progress-compact-style .progress-header:before {
+    content: " ";
+    display: table;
+}

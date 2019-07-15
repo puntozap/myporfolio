@@ -12,7 +12,7 @@ class Section3 extends React.Component {
                 <Container>
                     <Row>
                         <Col lg={12}>
-                            <p className="text-uppercase text-white">since 3 yeas ago making tools for people with technologies</p>
+                            <p className="text-uppercase text-white">since 3 yeas ago making tools for people with technologie</p>
                         </Col>
                         <Col lg={12}>
                             <p className="text-white h1">
