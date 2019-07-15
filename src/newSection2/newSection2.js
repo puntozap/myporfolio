@@ -6,6 +6,8 @@ import { TabContent, TabPane, Nav, NavItem, NavLink, Card, Button, CardTitle, Ca
 import classnames from 'classnames';
 import Tab1 from '../newSection2/tab1';
 import Tab2 from '../newSection2/Tab2';
+import Tab3 from '../newSection2/Tab3';
+import Tab4 from '../newSection2/Tab4';
 
 class NewSection2 extends React.Component {
     constructor(props) {
@@ -44,9 +46,16 @@ class NewSection2 extends React.Component {
                     </NavItem>
                     <NavItem>
                         <NavLink
-                            className={classnames({ active: this.state.activeTab === '2' })}
+                            className={classnames({ active: this.state.activeTab === '3' })}
                             onClick={() => { this.toggle('3'); }}>
-                            Moar Tabs 3
+                            Skills
+                        </NavLink>
+                    </NavItem>
+                    <NavItem>
+                        <NavLink
+                            className={classnames({ active: this.state.activeTab === '4' })}
+                            onClick={() => { this.toggle('4'); }}>
+                            Porfolio
                         </NavLink>
                     </NavItem>
                 </Nav>
@@ -59,9 +68,12 @@ class NewSection2 extends React.Component {
                     </TabPane>
                     <TabPane tabId="3">
                         <Row>
-                            <Col sm="12">
-                                <h4>Tab 13 Contents</h4>
-                            </Col>
+                            <Tab3 />
+                        </Row>
+                    </TabPane>
+                    <TabPane tabId="4">
+                        <Row>
+                            <Tab4 />
                         </Row>
                     </TabPane>
                 </TabContent>

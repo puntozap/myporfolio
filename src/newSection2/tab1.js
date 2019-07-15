@@ -7,7 +7,7 @@ class Tab1 extends React.Component {
     render() {
         return (
             <Row>
-                <Col sm="12" className="pt-3 text-left">
+                <Col sm="12" className="pt-3 text-left pt-5">
                     <p className="h4 text-justify">Villartechnologies</p>
                     <p className="text-justify text-monospace h3">2015 - Present</p>
                     <p className="text-justify text-monospace "><em>Software Developer</em></p>
