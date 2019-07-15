@@ -23,6 +23,7 @@ class MyPicture extends React.Component {
                         <p><i className="fab fa-whatsapp"></i> +58 426 7292629<br /><i className="fas fa-envelope-square"></i> puntozap@gmail.com</p>
                         <p><i class="fa fa-map-marker" aria-hidden="true"></i> San Cristobal, Venezuela</p>
                         <p><i class="fa fa-calendar" aria-hidden="true"></i> August, 19th of 1987</p>
+                        
 
 
                     </section>
