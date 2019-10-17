@@ -25,7 +25,7 @@ class Section2 extends React.Component {
                         <Col title="That Work was made with Codeigniter in MVC Arquitecture and modified the CSS interface. It is a Website From Paraguay" lg={6}><img src={joven}  width={400} /><p><a className="text-white" href="https://joven.lat/" target="_blank">Joven</a></p></Col>
                         <Col title="That Work was made in Codeigniter, install an admin template and create a CRM to clean service in Spain" lg={6}><img src={elrondaguel}  width={400} /><p><a className="text-white" href="http://control.elrondaguel.es" target="_blank">ElRondaguel</a></p></Col>
                         <Col title="It is a website that I made in React JS with Laravel like API REST to add porfolios." lg={6}><img src={villartechnologies} width={400} /><p><a className="text-white" href="http://villartechnologies.com.ve/"  target="_blank">Villartechnologies</a></p></Col>
-                        <Col title="It is a website that I made in Laravel MVC and Install a Theme Admin. It is a website to create culturals events in Cordoba, Argentina" lg={6}><img src={cultura} width={400} /><p><a className="text-white" href="https://cultura-global.hopto.org/" target="_blank">Cultura Global</a></p></Col>
+                       
                         
                     </Row>
                 </Container>
