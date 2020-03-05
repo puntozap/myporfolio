@@ -15,31 +15,23 @@ class Tab3 extends React.Component {
                         <div class="progress-compact-style">
                             <div class="progress-header">
                                 <div class="progress-lbl">PHP native</div>
-                                <div class="progress-val">70%</div>
+                                <div class="progress-val">75%</div>
                             </div>
                             <div class="progress">
-                                <div class="progress-bar bg-success" role="progressbar" style={{ width: 60 + '%' }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                <div class="progress-bar bg-success" role="progressbar" style={{ width: 75 + '%' }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                         </div>
 
                         <div class="progress-compact-style">
                             <div class="progress-header">
                                 <div class="progress-lbl">Laravel</div>
-                                <div class="progress-val">50%</div>
+                                <div class="progress-val">75%</div>
                             </div>
                             <div class="progress">
-                                <div class="progress-bar bg-primary" role="progressbar" style={{ width: 50 + '%' }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                <div class="progress-bar bg-success" role="progressbar" style={{ width: 75 + '%' }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                         </div>
-                        <div class="progress-compact-style">
-                            <div class="progress-header">
-                                <div class="progress-lbl">Yii2</div>
-                                <div class="progress-val">20%</div>
-                            </div>
-                            <div class="progress">
-                                <div class="progress-bar bg-danger" role="progressbar" style={{ width: 20 + '%' }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                            </div>
-                        </div>
+                        
                     </Col>
                     <Col lg="4">
                         <p className="h5 text-justify">Javascript</p>
@@ -57,10 +49,10 @@ class Tab3 extends React.Component {
                         <div class="progress-compact-style">
                             <div class="progress-header">
                                 <div class="progress-lbl">React JS</div>
-                                <div class="progress-val">40%</div>
+                                <div class="progress-val">55%</div>
                             </div>
                             <div class="progress">
-                                <div class="progress-bar bg-warning" role="progressbar" style={{ width: 40 + '%' }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                <div class="progress-bar bg-warning" role="progressbar" style={{ width: 55 + '%' }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                         </div>
 
@@ -144,10 +136,10 @@ class Tab3 extends React.Component {
                         <div class="progress-compact-style">
                             <div class="progress-header">
                                 <div class="progress-lbl">Premiere</div>
-                                <div class="progress-val">40%</div>
+                                <div class="progress-val">20%</div>
                             </div>
                             <div class="progress">
-                                <div class="progress-bar bg-warning" role="progressbar" style={{ width: 40 + '%' }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                <div class="progress-bar bg-warning" role="progressbar" style={{ width: 20 + '%' }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                         </div>
                     </Col>

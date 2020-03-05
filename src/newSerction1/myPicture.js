@@ -20,7 +20,7 @@ class MyPicture extends React.Component {
                         </div>
                         <p className="d-lg-none text-monospace">MAKING WEB TOOLS FOR HUMANS WITH TECHNOLOGY</p>
                         <p className="d-lg-none text-monospace">Waiting for you call</p>
-                        <p><i className="fab fa-whatsapp"></i> +58 426 7292629<br /><i className="fas fa-envelope-square"></i> puntozap@gmail.com</p>
+                        <p><i className="fab fa-whatsapp"></i> +58 424 7647893<br /><i className="fas fa-envelope-square"></i> puntozap@gmail.com</p>
                         <p><i class="fa fa-map-marker" aria-hidden="true"></i> San Cristobal, Venezuela</p>
                         <p><i class="fa fa-calendar" aria-hidden="true"></i> August, 19th of 1987</p>
                         

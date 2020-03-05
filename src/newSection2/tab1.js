@@ -11,7 +11,7 @@ class Tab1 extends React.Component {
                     <p className="h4 text-justify">Villartechnologies</p>
                     <p className="text-justify text-monospace h3">2015 - Present</p>
                     <p className="text-justify text-monospace "><em>Software Developer</em></p>
-                    <p className="text-justify text-monospace em">Web Product Creation for other companies around the world like Spain, Paraguay, Argentina, Usa and Israel</p>
+                    <p className="text-justify text-monospace em">Web Product Creation for other companies around the world like Spain, Paraguay, Argentina</p>
                     <hr/>
                     <p className="h4 text-justify">Fundacion Atletica San Cristobal</p>
                     <p className="text-justify text-monospace h3">2012 - 2015</p>
